@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://AndruTRADX.github.io/Avocados-la-tiendita',
   },
 }
